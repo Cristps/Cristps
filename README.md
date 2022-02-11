@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Cristiana! 👋
 
 - 🔭 Futura desenvolvedora front-end
-- 🌱 Atualmente estudando Java/CSS/HTML
+- 🌱 Atualmente estudando Java/CSS/HTML/Angular
 - 😄 Pronouns: ela/dela
 
 <div align="center">
