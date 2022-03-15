@@ -3,6 +3,7 @@
 - 🔭 Futura desenvolvedora front-end
 - 🌱 Atualmente estudando Java/CSS/HTML/Angular
 - 😄 Pronouns: ela/dela
+- 📚 Estudante de Informática para Negócios - FATEC
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
