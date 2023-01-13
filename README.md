@@ -2,7 +2,7 @@
 
 - 🔭 Futura desenvolvedora front-end
 - 🌱 Atualmente estudando Java/CSS/HTML/Angular
-- 🔭 Tabalhando com QA/Tester
+- 🔭 Trabalhando com QA/Tester
 - 😄 Pronouns: ela/dela
 - 📚 Estudante de Informática para Negócios - FATEC
 
