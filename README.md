@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Cristiana! 👋
 
 - 🔭 Futura desenvolvedora front-end
-- 🌱 Atualmente estudando Javascript/CSS/HTML/Angular
+- 🌱 Atualmente estudando Javascript/CSS/HTML/Angular/Java
 - 🔭 Trabalhando com QA/Tester
 - 😄 Pronouns: ela/dela
 - 📚 Estudante de Informática para Negócios - FATEC
