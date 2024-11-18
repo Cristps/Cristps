@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Cristiana! 👋
 
-- 🔭 Futura desenvolvedora front-end
+- 🔭 Gosto de desenvolver e estudar programação 
 - 🌱 Atualmente estudando Selenium/Java/Automação de testes
 - 🔭 Trabalhei e experiência como QA/Tester
 - 😄 Pronouns: ela/dela
