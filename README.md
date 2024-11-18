@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando Selenium/Java/Automação de testes
 - 🔭 Trabalhei e experiência como QA/Tester
 - 😄 Pronouns: ela/dela
-- 📚 Estudante de Informática para Negócios - FATEC
+- 📚 Formada em Administração - Anhembi Morumbi e Informática para Negócios - FATEC
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
