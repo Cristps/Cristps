@@ -1,8 +1,8 @@
 ### Olá!! Eu sou a Cristiana! 👋
 
 - 🔭 Gosto de desenvolver e estudar programação 
-- 🌱 Atualmente estudando Selenium/Java/Automação de testes
-- 🔭 Trabalhei e experiência como QA/Tester
+- 🌱 Atualmente estudando ADVPL/Python/Selenium/Automação de testes
+- 🔭 Trabalhei e experiência como QA/Tester e Desenvolvimento ADVPL Junior
 - 😄 Pronouns: ela/dela
 - 📚 Formada em Administração - Anhembi Morumbi e Informática para Negócios - FATEC
 
